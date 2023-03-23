@@ -1,2 +1,3 @@
 # AnimeList
-open source soon
+Inspire by https://myanimelist.net/animelist/satyakiran29
+
